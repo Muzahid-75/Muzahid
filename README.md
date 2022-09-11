@@ -24,5 +24,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="C++.avif" width="30" height="40"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="[C++.avif"](https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1200/api/page/5393602882568192/image/download/6038586442907648) width="30" height="40"/> </a> 
 </p>
