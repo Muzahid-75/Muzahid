@@ -1,23 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B%2C+I'm+Muzahidul+Islam+Munna)](https://git.io/typing-svg)
-<h3 align="center">A passionate Programmer & Photographer From Bangladesh</h3>
+<h3 align="center">A Programmer From Bangladesh</h3>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abir-tx&label=Profile%20views&color=0e75b6&style=flat" alt="abir-tx" /> </p>
 
-- 🔭 I’m currently working on [AIUB-DISCOBOT](https://aiub-discobot.vercel.app/)
+- 🔭 I’m currently working on **C++**
 
-- 🌱 I’m currently learning **OpenGL Programming**
+- 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on [ALib](https://github.com/Abir-Tx/ALib)
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://abir-tx.github.io)
-- 🌎 My personal [Website](https://mr-abir.weebly.com)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/Muzahid-75)
 
-- 💬 Ask me about **Linux**
+- 💬 Ask me about **C++**
 
-- 📫 How to reach me **abirtx@yandex.com**
+- 📫 How to reach me **muzahidulislam.munna75@gmail.com**
 
-- 📄 Know about my experiences [Here](https://www.linkedin.com/in/mushfiqur-rahman-abir/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
