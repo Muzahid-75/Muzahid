@@ -23,5 +23,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.educative.io/blog/how-to-learn-cpp-the-guide-for-beginners" height="30" width="40"/> </a> 
 </p>
