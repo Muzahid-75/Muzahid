@@ -2,7 +2,6 @@
 <h3 align="center">A Programmer From Bangladesh</h3>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abir-tx&label=Profile%20views&color=0e75b6&style=flat" alt="abir-tx" /> </p>
 
 - 🔭 I’m currently working on **C++**
 
