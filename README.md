@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **C++**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **C++ & Dart**
 
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/Muzahid-75)
